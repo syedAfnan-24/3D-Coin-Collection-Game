@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/CubexCube - Free City Pack I/Scenes/Android.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
